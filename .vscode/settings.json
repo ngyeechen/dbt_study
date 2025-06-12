@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 100,
+            "driver": "DuckDB",
+            "name": "nyc_parking_violations",
+            "database": "C:\\Users\\ycng\\OneDrive\\Documents\\GitHub\\dbt study\\data\\nyc_parking_violations.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
